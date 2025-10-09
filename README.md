@@ -42,6 +42,9 @@ I am an **Interdisciplinary Artist** and **Web Developer** passionate about blen
 
 <!-- Optionally add favorite projects, social links, or a personal motto here! -->
 
+## Website Templates Available for Purchase on Wix
+- Wix Studio Project: https://rcxfinearts.wixstudio.com/site
+
 > _“Art and technology are not opposites—they’re partners in expression.”_
 
 ---
