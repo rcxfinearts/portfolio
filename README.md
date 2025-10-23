@@ -43,7 +43,9 @@ I am an **Interdisciplinary Artist** and **Web Developer** passionate about blen
 <!-- Optionally add favorite projects, social links, or a personal motto here! -->
 
 ## Website Templates Built on Wix Studio with GitHub 
-- **Wix Studio Project**: https://rcxfinearts.wixstudio.com/site
+- **Wix Studio Projects**:
+- https://rcxfinearts.wixstudio.com/site
+- https://www.wix.com/marketplace/template/view/live/34272d97-7df4-4952-9d86-e7752da0a50e
 
 ## Web Developer Services
 - Wix: https://www.wix.com/studio/community/partners/rcx-coding
