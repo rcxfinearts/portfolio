@@ -37,7 +37,7 @@ I am an **Interdisciplinary Artist** and **Web Developer** passionate about blen
 - LinkedIn: https://www.linkedin.com/in/rcxfinearts/  
 - Twitch Dashboard: https://dashboard.twitch.tv/u/rcxfinearts  
 - Discord: https://discord.com/channels/@rcxfinearts
-- Google Developer: https://developers.google.com/profile/badges/recognitions/learnings
+- Google Developer: https://g.dev/rcxfinearts
 
 ---
 
